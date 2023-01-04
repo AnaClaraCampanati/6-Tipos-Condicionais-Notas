@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-Tipos-Condicionais-Notas", "6-Tipos-Condicionais-Notas\6-Tipos-Condicionais-Notas.csproj", "{7AEFE413-DD03-4457-903E-5CBEEA426026}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AEFE413-DD03-4457-903E-5CBEEA426026}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AEFE413-DD03-4457-903E-5CBEEA426026}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AEFE413-DD03-4457-903E-5CBEEA426026}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AEFE413-DD03-4457-903E-5CBEEA426026}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7906506-0352-4B51-89C2-B2D6309601D9}
+	EndGlobalSection
+EndGlobal
